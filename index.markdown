@@ -5,6 +5,12 @@
 layout: home
 ---
 
-* list all the materials of learning problem
+##  学习目标： 如何做数据分析
+
+1. 了解数据分析的概念：
+    * 什么是数据分析
+
+
+
 
 
