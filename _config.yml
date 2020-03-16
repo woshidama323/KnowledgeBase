@@ -30,7 +30,7 @@ twitter_username: harry
 github_username:  woshidama323
 
 # Build settings
-theme: jekyll-theme-time-machine
+# theme: jekyll-theme-time-machine
 plugins:
   - jekyll-feed
 
